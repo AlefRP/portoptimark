@@ -1,8 +1,8 @@
-# MarkoMix
+# PortOptiMark
 
 ## Descrição
 
-MarkoMix é uma ferramenta em Python que permite aos investidores otimizarem seus portfólios de ações utilizando a Teoria Moderna do Portfólio de Harry Markowitz. Utilizando a biblioteca `pypfopt` para calcular retornos esperados e a covariância dos retornos, e a biblioteca `yfinance` para buscar dados históricos dos preços das ações, essa ferramenta busca encontrar a alocação de ativos que oferece a melhor relação entre risco e retorno.
+PortOptiMark é uma ferramenta em Python que permite aos investidores otimizarem seus portfólios de ações utilizando a Teoria Moderna do Portfólio de Harry Markowitz. Utilizando a biblioteca `pypfopt` para calcular retornos esperados e a covariância dos retornos, e a biblioteca `yfinance` para buscar dados históricos dos preços das ações, essa ferramenta busca encontrar a alocação de ativos que oferece a melhor relação entre risco e retorno.
 
 ## Funcionalidades
 
