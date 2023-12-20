@@ -22,6 +22,7 @@ Antes de começar, certifique-se de ter instalado na sua máquina:
 Você pode instalar as dependências necessárias utilizando pip:
 ```bash
 pip install yfinance pypfopt pandas
+```
 
 ## Licença 📜
 
